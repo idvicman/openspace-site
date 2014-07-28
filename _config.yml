@@ -1,5 +1,6 @@
 name: OpenSpace
 pygments: true
+baseurl: openspace-site
 
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "Procfile", "config.ru"]
 
