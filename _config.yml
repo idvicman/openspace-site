@@ -1,10 +1,10 @@
 name: OpenSpace
-pygments: true
-baseurl: openspace-site
+url: "http://agiles-mexico.github.io/openspace-site"
 
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "Procfile", "config.ru"]
 
 assets:
+  baseurl: /openspace-site/assets/
   compress:
     css: 'sass'
     js: 'uglifier'
